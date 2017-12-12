@@ -7,7 +7,12 @@
 http://parkjs814.github.io/AlgorithmVisualizer
 
 ![Algorithm Visualizer](http://i.giphy.com/3o6EhJFgsyShX6MHeM.gif)
-
+### Build Instruction
+1.(cd into the project directory)
+2.npm install -g gulp-cli
+3.npm install
+4.gulp
+5.(visit http://localhost:8080)
 ### Contributing
 
 We encourage you to check out [**Wiki**](https://github.com/parkjs814/AlgorithmVisualizer/wiki) before you get started.
