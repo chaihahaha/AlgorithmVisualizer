@@ -1,5 +1,0 @@
-1.<cd into the project directory>
-2.npm install -g gulp-cli
-3.npm install
-4.gulp
-5.visit http://localhost:8080
