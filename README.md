@@ -11,6 +11,7 @@ http://parkjs814.github.io/AlgorithmVisualizer
 1.(cd into the project directory)
 
 2.npm install -g gulp
+
   npm install gulp
 
 3.npm install
